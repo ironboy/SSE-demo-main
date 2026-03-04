@@ -1,0 +1,27 @@
+// Include any default variable overrides for Bootstrap here
+@import './bootstrap-overrides.scss';
+
+// Include Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Include your own CSS
+
+label {
+  width: 100%;
+}
+
+main {
+  padding-top: 45px;
+  padding-bottom: 165px;
+}
+
+header,
+form[name="chat"] {
+  background-color: #0b6b24;
+  color: white;
+}
+
+button:not(.btn-secondary) {
+  background-color: var(--bs-primary-bg-subtle) !important;
+  color: black !important;
+}

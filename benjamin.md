@@ -1,0 +1,1 @@
+Grupp 2 Malmö -> dagar istället för klubbar! OK:at 4 mars.
