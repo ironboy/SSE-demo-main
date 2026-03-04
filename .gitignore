@@ -25,3 +25,7 @@ gmail-secret.json
 *.njsproj
 *.sln
 *.sw?
+
+# .NET build output
+dotnet-backend/bin/
+dotnet-backend/obj/
